@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T07:48:42.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="drYIMDnnikdrPDTQoff0" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T07:51:50.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="4Iqrw8v5HwPK3BinJqH5" version="21.2.9" type="github">
   <diagram name="第 1 页" id="MnjlSnw96ZEYYFgfHTCJ">
     <mxGraphModel dx="773" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,11 +22,27 @@
         <mxCell id="rwNcY4Yg_PhgB3yi368k-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;每次从数据集采样n个点作为最小批，共M个批次&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="110" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwNcY4Yg_PhgB3yi368k-58" target="rwNcY4Yg_PhgB3yi368k-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="280" />
+              <mxPoint x="55" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rwNcY4Yg_PhgB3yi368k-58" target="rwNcY4Yg_PhgB3yi368k-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="280" />
+              <mxPoint x="185" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取PGD攻击路径&lt;br&gt;并构建对抗域&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取PGD攻击路径&lt;br&gt;并构建对抗域&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取PGD攻击路径&lt;br&gt;并构建对抗域&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="120" height="40" as="geometry" />
@@ -35,13 +51,34 @@
           <mxGeometry x="110" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-66" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="20" height="20" as="geometry" />
+          <mxGeometry x="300" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-67" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rwNcY4Yg_PhgB3yi368k-68" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;. . . . . .&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="212.5" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;扰动点1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-70" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;扰动点m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-73" value="ARS采样具有随机对抗性方向和幅度的扰动训练点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-75" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;. . .&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="302.5" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;软标签1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;软标签m&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwNcY4Yg_PhgB3yi368k-78" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;. . .&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="40" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
