@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T03:00:45.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="xM1ZRWRxLpmMZxTwiTRk" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T03:13:55.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="AFxVNhFhmOHjg21RqUyZ" version="21.6.2" type="github">
   <diagram name="第 1 页" id="bg1YBPtNvMRcdtTk9uoi">
     <mxGraphModel dx="1468" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,31 @@
         <mxCell id="1" parent="0" />
         <mxCell id="tyRtAacIzeEGG3dSfyBD-1" value="Efficient Physical Image Attacks Using Adversarial Fast Autoaugmentation Methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="20" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tyRtAacIzeEGG3dSfyBD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="94.9655172413793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-2" value="EoT methods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-5" value="a mount of sample collection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tyRtAacIzeEGG3dSfyBD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="154.9655172413793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-6" value="AFA&amp;nbsp;methods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-7" value="proposed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-9" value="alleviating the sample collection pressure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
