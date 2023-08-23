@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T03:24:56.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="uYhTHnxGx483DTae00l8" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T10:35:22.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="9Cz6xrpwzd5vg1-P_w1x" version="21.6.2" type="github">
   <diagram name="第 1 页" id="bg1YBPtNvMRcdtTk9uoi">
     <mxGraphModel dx="1468" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,8 +15,8 @@
         <mxCell id="tyRtAacIzeEGG3dSfyBD-2" value="EoT methods" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry y="80" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tyRtAacIzeEGG3dSfyBD-5" value="a mount of sample collection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="180" height="30" as="geometry" />
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-5" value="generate 3D AEs, provide a approach for studying physical attacks(subject to limitations)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tyRtAacIzeEGG3dSfyBD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tyRtAacIzeEGG3dSfyBD-6">
           <mxGeometry relative="1" as="geometry">
@@ -54,6 +54,42 @@
         </mxCell>
         <mxCell id="tyRtAacIzeEGG3dSfyBD-23" value="enable the crafting of faster and smaller perturbations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-24" value="缩写" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="150" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-25" value="AEs&amp;nbsp; &amp;nbsp; adversarial examples" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tyRtAacIzeEGG3dSfyBD-24">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-26" value="FA&amp;nbsp; &amp;nbsp; fast autoaugment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tyRtAacIzeEGG3dSfyBD-24">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-27" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tyRtAacIzeEGG3dSfyBD-24">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tyRtAacIzeEGG3dSfyBD-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="485.3103448275863" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tyRtAacIzeEGG3dSfyBD-28" target="tyRtAacIzeEGG3dSfyBD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="485" />
+              <mxPoint x="-30" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-32" value="enhance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tyRtAacIzeEGG3dSfyBD-31">
+          <mxGeometry x="0.0217" y="-2" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-28" value="WOFM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tyRtAacIzeEGG3dSfyBD-30" value="&lt;div&gt;weighted ob&lt;span style=&quot;background-color: initial;&quot;&gt;ject&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ive function method&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
