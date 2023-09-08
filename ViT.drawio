@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T03:10:42.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" version="21.6.9" etag="0qyUR8tMXZ26JapVnSza" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T03:53:16.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="1g_-o9Q3_4aJjwv3_Zv2" version="21.6.9" type="github">
   <diagram name="第 1 页" id="QMaBmCtcyCEy_2AJ-6uD">
-    <mxGraphModel>
+    <mxGraphModel dx="768" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YW1NydqgsvoQKS5MBS7z-1" value="In vision, attention要么与convolutional network结合，要么被用来替换卷积网络的某些组件，同时保持它们的整体结构&lt;br&gt;we show that 对CNNs的依赖不是必需的，直接应用在sequences of image patches的pure transformer可以在图像分类任务中表现好&lt;br&gt;在大量数据上预训练，并转移到中小数据集上识别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="710" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
