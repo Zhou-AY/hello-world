@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T07:44:44.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" version="21.7.4" etag="K-fgRWEQDWRxk2mJqEtj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T07:46:49.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="Nxb-PFysHl-zqzfIAPpZ" version="21.7.4" type="github">
   <diagram name="第 1 页" id="8saL1OhqFDcUNK80V5r-">
-    <mxGraphModel>
+    <mxGraphModel dx="838" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YGvIgLedCp6DtXdnREWc-1" value="NeRF, Neural Radiance Fields，神经辐射场&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="530" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
