@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T09:41:09.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="t9VSiQSmLDvS8nPUSVqz" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T06:50:56.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="s0ds_AH22u57mL5OqmZc" version="21.8.1" type="github">
   <diagram name="第 1 页" id="8saL1OhqFDcUNK80V5r-">
-    <mxGraphModel dx="838" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YGvIgLedCp6DtXdnREWc-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NeRF, Neural Radiance Fields，神经辐射场&lt;br&gt;&lt;br&gt;考试形式：课程报告，自选三篇论文(CVPR、ICCV、ECCV、NIPS、ICML、AAAI、TPAMI、IJCV)，粗略介绍。重点提交一篇论文(鼓励增加自己的想法)，复现(有实验结果，结果分析，是否一致，为什么)。最后一节课讲PPT。&lt;br&gt;&lt;br&gt;最重要的两个问题：前沿、实用背景。快速入门：深入研究几个问题。&lt;br&gt;&lt;br&gt;伯努利分布、绝对分布(Categorical Distribution)、连续分布(Dirichlet Distribution)、&lt;br&gt;多元正态分布(Multivariate Normal Distribution)、Normal Inverse Wishart、&lt;br&gt;重要：共轭分布(Conjugate Distribution)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="530" height="450" as="geometry" />
+        <mxCell id="YGvIgLedCp6DtXdnREWc-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NeRF, Neural Radiance Fields，神经辐射场&lt;br&gt;&lt;br&gt;考试形式：课程报告，自选三篇论文(CVPR、ICCV、ECCV、NIPS、ICML、AAAI、TPAMI、IJCV)，粗略介绍。重点提交一篇论文(鼓励增加自己的想法)，复现(有实验结果，结果分析，是否一致，为什么)。最后一节课讲PPT。&lt;br&gt;&lt;br&gt;最重要的两个问题：前沿、实用背景。快速入门：深入研究几个问题。&lt;br&gt;&lt;br&gt;伯努利分布、绝对分布(Categorical Distribution)、连续分布(Dirichlet Distribution)、&lt;br&gt;多元正态分布(Multivariate Normal Distribution)、Normal Inverse Wishart、&lt;br&gt;重要：共轭分布(Conjugate Distribution)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="70" width="530" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nvw_jpVLHvtrTZEw8dhR-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对象分割&lt;br&gt;对象建模（特征、颜色、直方图、纹理、关键点）&lt;br&gt;分类模型（拟合不足、过拟合、决策树、SVM、超平面和支持向量机、maximum margin、）&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="530" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
